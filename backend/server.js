@@ -17,7 +17,7 @@ const uri = 'mongodb://localhost:27017/local';
 
 //internet
 //const uri =
-('mongodb+srv://murat:murat3838@cluster0-2yepv.gcp.mongodb.net/test?retryWrites=true&w=majority');
+('mongodb+srv://murat:asdasd@cluster0-2yepv.gcp.mongodb.net/test?retryWrites=true&w=majority');
 
 mongoose.connect(uri, {
   useNewUrlParser: true,
